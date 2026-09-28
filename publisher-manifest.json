@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "3ad9f28df3c2e547e68c7155",
+  "owner": "yeqbrungek",
+  "repo": "page-27fedeb0ff1a1ab3f6294d68",
+  "title": "44F网络",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "27fedeb0ff1a1ab3f6294d68",
+      "a": "44F网络",
+      "b": "",
+      "entity": "44F网络",
+      "brand": "44F网络",
+      "separator": "",
+      "path": "index.html",
+      "hash": "ce8f013ac04e950c1cd7e99b989e87d1f600d0a99cd4c1f91823201786136d27",
+      "content": {
+        "keyword1": "44F网络",
+        "keyword2": "",
+        "primary_entity": "44F网络",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "44F网络提供安全稳定的VPN加速服务，多种套餐可选。官网客户端下载，助力畅快上网。",
+          "AI_DESCRIPTION": "44F网络提供安全稳定的VPN加速服务，多种套餐可选。官网客户端下载，助力畅快上网。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n\n\n\n<style>\n* {\n  margin: 0;\n  padding: 0;\n  box-sizing: border-box;\n}\n body {\n  font-family: 'Microsoft YaHei', system-ui, sans-serif;\n  background: #f8f5f0;\n  color: #333;\n  line-height: 1.6;\n}\n header {\n  background: #fff;\n  padding: 1rem 5%;\n  position: sticky;\n  top: 0;\n  z-index: 10;\n }\n nav ul {\n  display: flex;\n  justify-content: center;\n  gap: 2rem;\n  list-style: none;\n }\n nav a {\n  text-decoration: none;\n  color: #333;\n  padding: 1rem 0;\n }\n .accent-color {\n  color: #228B22;\n }\n main {\n  max-width: 1200px;\n  margin: 0 auto;\n  padding: 2rem 5%;\n }\n h1 {\n  font-size: 2.8rem;\n  text-align: center;\n  margin-bottom: 1rem;\n  color: #228B22;\n }\n h2 {\n  font-size: 1.8rem;\n  color: #228B22;\n  margin: 2rem 0 1rem;\n }\n .steps {\n  display: flex;\n  flex-direction: column;\n  gap: 1.5rem;\n }\n .step {\n  background: #fff;\n  padding: 1.5rem;\n  border-radius: 8px;\n  box-shadow: 0 2px 5px rgba(0,0,0,0.1);\n }\n .step-number {\n  background: #228B22;\n  color: #fff;\n  width: 40px;\n  height: 40px;\n  border-radius: 50%;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  font-weight: bold;\n  margin-bottom: 1rem;\n }\n .plans-container {\n  display: grid;\n  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));\n  gap: 1.5rem;\n }\n .plan-card {\n  background: #fff;\n  padding: 1.5rem;\n  border-radius: 8px;\n  border: 2px solid #eee;\n }\n .plan-card.featured {\n  border-color: #228B22;\n  box-shadow: 0 4px 10px rgba(34,139,34,0.2);\n }\n .plan-card h3 {\n  color: #228B22;\n }\n @media (max-width: 768px) {\n  .steps, .plans-container {\n    flex-direction: column;\n  }\n }\n details {\n  margin: 1rem 0;\n  background: #fff;\n  padding: 1rem;\n  border-radius: 6px;\n }\n summary {\n  font-weight: bold;\n  cursor: pointer;\n  color: #228B22;\n }\n</style>\n\n\n<header>\n<nav>\n<ul>\n<li><a href=\"#home\">首页</a></li>\n<li><a href=\"#plans\">套餐选择</a></li>\n<li><a href=\"#steps\">配置步骤</a></li>\n<li><a href=\"#faq\">常见问题</a></li>\n<li><a href=\"#download\">客户端下载</a></li>\n</ul>\n</nav>\n</header>\n<main>\n<h1>44F网络</h1>\n<section id=\"home\">\n<h2>品牌简介</h2>\n<p>44F网络是一款专业的网络加速品牌，致力于为用户提供安全稳定的上网体验。</p>\n</section>\n<section id=\"use\">\n<h2>使用场景</h2>\n<p>适用于个人日常浏览、家庭多人使用以及企业级网络需求。无论是流媒体内容解锁还是游戏加速，44F网络都能提供可靠的支持。</p>\n</section>\n<section id=\"plans\">\n<h2>套餐选择</h2>\n{{PLANS_HTML}}\n</section>\n<section id=\"steps\">\n<h2>配置流程</h2>\n<div class=\"steps\">\n<div class=\"step\">\n<div class=\"step-number\">1</div>\n<h3>选择套餐</h3>\n<p>根据您的流量需求和设备数量选择适合的套餐。</p>\n</div>\n<div class=\"step\">\n<div class=\"step-number\">2</div>\n<h3>支付订阅</h3>\n<p>完成在线支付，选择合适的支付方式。</p>\n</div>\n<div class=\"step\">\n<div class=\"step-number\">3</div>\n<h3>下载客户端</h3>\n<p>前往官网下载官方客户端。</p>\n</div>\n<div class=\"step\">\n<div class=\"step-number\">4</div>\n<h3>安装与配置</h3>\n<p>安装客户端，按照提示完成初始设置。</p>\n</div>\n<div class=\"step\">\n<div class=\"step-number\">5</div>\n<h3>连接节点</h3>\n<p>登录后选择节点，享受加速服务。</p>\n</div>\n</div>\n</section>\n<section id=\"download\">\n<h2>客户端下载</h2>\n{{CLIENTS_HTML}}\n</section>\n<section id=\"faq\">\n<h2>常见问题</h2>\n<details>\n<summary>44F网络是什么？</summary>\n<p>44F网络是一款专业的VPN加速服务，提供安全稳定的网络加速解决方案。</p>\n</details>\n<details>\n<summary>支持哪些设备？</summary>\n<p>支持多台设备同时在线，具体取决于所选套餐。</p>\n</details>\n<details>\n<summary>如何选择套餐？</summary>\n<p>根据流量需求和设备数量选择基础版、旗舰版或团队版。</p>\n</details>\n<details>\n<summary>如何下载客户端？</summary>\n<p>访问官网，找到下载入口获取最新客户端。</p>\n</details>\n<details>\n<summary>支持的加速场景？</summary>\n<p>支持基础流媒体解锁、游戏加速等，具体功能以套餐为准。</p>\n</details>\n</section>\n</main>\n\n",
+          "hash": "3a880665a3bffa155db77ac6055dd50949bbba5db355d36eea89b68698538804",
+          "seo": {
+            "title": "44F网络VPN加速器 - 官方客户端下载",
+            "keywords": "44F网络,机场,加速器,客户端下载,VPN,流量加速",
+            "description": "44F网络提供安全稳定的VPN加速服务，多种套餐可选。官网客户端下载，助力畅快上网。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "donglanrc.cn",
+    "host": "b.donglanrc.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "donglanrc.cn",
+      "url": "https://donglanrc.cn/",
+      "label": "纷达网络(Fenda)",
+      "apex": "donglanrc.cn",
+      "kind": null,
+      "identity": "amjgaa/page-ed17679bfb968c26a027a6b6"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "16c63a5533b78c854ffa9322cbe5834512f85aee667cbcb94cd49091d1feeed3",
+    "sitemap.xml": "7cc811245cfcd62e74dc6103cb01aedeb427901f34135464b4db6f6db9921a77",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f7de7266f14b1c413a93eed16ffd5a226a366803eb96ce96fa828b893d479ed2",
+    "robots.txt": "d29b6acf2ba93c84db59d4c4b39d4576f10cb9176d403c5cfd418c18897dd9db",
+    "290185bfd37e6cfa38015e3b07129ed4.txt": "ccaf52d181d6bf5f8e68f866e7783db7b824377c9d10ced64fbc488d35c49ed4"
+  },
+  "revision": "e18b3ef9abdcc987d7ae6de118dfff23dd8d8b723d34fd8aa65193be0260723e"
+}
